@@ -3,3 +3,4 @@
 
 
 - [Commands, Commands, Commands](commands.md)
+- [Settings Reference](settings.md)
