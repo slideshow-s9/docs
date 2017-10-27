@@ -6,6 +6,7 @@
 - [Code/Syntax Highlighting Helpers](code.md)
 - [Template Gallery](gallery.md)
 - [Gradient Themes](themes.md)
+- [Create Your Own Templates](templates.md)
 - [Commands, Commands, Commands](commands.md)
 - [Settings Reference](settings.md)
 - [What's Markdown?](markdown.md)
