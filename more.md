@@ -3,55 +3,6 @@ title: Settings, Tips, Tricks and More
 ---
 
 
-## How To Create Slides Without Titles?
-
-You can use the `!SLIDE` directive to create slides without headings.
-Example:
-
-```
-!SLIDE
-
-A slide with no title
-
-!SLIDE
-
-Another slide with no heading
-
-!SLIDE
-
-And another
-
-!SLIDE commandline
-
-    $ ruby print.rb
-
-!SLIDE image
-
-!i/friendsbadge.png!
-```
-
-Note, you can pass along CSS style classes to your generated `div`
-or `section` that wraps your slide. Example:
-
-```
-!SLIDE smaller commandline
-```
-
-Will become:
-
-```
-<div class='slide smaller commandline'>
-  ...
-</div>
-```
-
-
-## How To Use Gradient Themes for the Built-In S6 Template Pack?
-
-You can define your gradient theme in plain text in the slide show source in the header
-using a simple CSS-style name value pair. [More »](themes.html#use)
-
-
 ## How To Fetch New Template Packages?
 
 Using the `install` command lets you fetch (install) new templates. Example:
@@ -171,6 +122,54 @@ Got templates? Send a link and announcement to the
 [wwwmake forum/mailing List](http://groups.google.com/group/wwwmake)
 and get your link added to the [Template Gallery](gallery.html).
 
+
+## How To Create Slides Without Titles?
+
+You can use the `!SLIDE` directive to create slides without headings.
+Example:
+
+```
+!SLIDE
+
+A slide with no title
+
+!SLIDE
+
+Another slide with no heading
+
+!SLIDE
+
+And another
+
+!SLIDE commandline
+
+    $ ruby print.rb
+
+!SLIDE image
+
+!i/friendsbadge.png!
+```
+
+Note, you can pass along CSS style classes to your generated `div`
+or `section` that wraps your slide. Example:
+
+```
+!SLIDE smaller commandline
+```
+
+Will become:
+
+```
+<div class='slide smaller commandline'>
+  ...
+</div>
+```
+
+
+## How To Use Gradient Themes for the Built-In S6 Template Pack?
+
+You can define your gradient theme in plain text in the slide show source in the header
+using a simple CSS-style name value pair. [More »](themes.html#use)
 
 
 ## How To Generate PDF Documents from Your Slide Shows?
