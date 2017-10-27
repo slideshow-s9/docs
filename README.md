@@ -8,4 +8,5 @@
 - [Gradient Themes](themes.md)
 - [Commands, Commands, Commands](commands.md)
 - [Settings Reference](settings.md)
+- [What's Markdown?](markdown.md)
 - [About](about.md)
