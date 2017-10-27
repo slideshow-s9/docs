@@ -28,7 +28,7 @@ Use the Ruby package manager, that is, `gem` to install:
 $ gem install slideshow
 ```
 
-## Step 0.2: Setup Templates Packs & Plugins 
+### Step 0.2: Setup Templates Packs & Plugins 
 
 Use the Slide Show (S9) command line tool to download (fetch) the template pack and plugin helpers:
 
