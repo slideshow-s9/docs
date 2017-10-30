@@ -24,7 +24,8 @@ Show/hide slide controls (`Ø` `«` `»`)  | C, Move mouse to bottom right corne
 
 Sample template package using the S6 blank package.
 
-[Sample](demos/tutorial.html)  &middot; [Sample PDF](demos/tutorial.pdf.html)  &middot;
+[Live Sample](http://slideshow-templates.github.io/slideshow-s6-blank/slides.html) · 
+[Live Sample PDF](http://slideshow-templates.github.io/slideshow-s6-blank/slides.pdf.html) ·
 [More »](https://github.com/slideshow-templates/slideshow-s6-blank)
 
 
@@ -45,6 +46,7 @@ reveal.js is a slide show template by Hakim El Hattab et al.
 
 Sample template package using the reveal.js package.
 
+[Live Sample](http://slideshow-templates.github.io/slideshow-reveal.js/slides.html) ·
 [More »](https://github.com/slideshow-templates/slideshow-reveal.js)
 
 
@@ -53,10 +55,11 @@ Sample template package using the reveal.js package.
 
 Shower is a slide show template by Vadim Makeev et al.
 
-### Shower Sample (Ribbon Theme)
+### Shower (Ribbon Theme) Sample
 
 Sample template package using the Shower package.
 
+[Live Sample](http://slideshow-templates.github.io/slideshow-shower/slides.html) ·
 [More »](https://github.com/slideshow-templates/slideshow-shower)
 
 
@@ -69,6 +72,7 @@ CSSS is a slide show template by Lea Verou.
 
 Sample template package using the CSSS template.
 
+[Live Sample](http://slideshow-templates.github.io/slideshow-csss/slides.html) ·
 [More »](https://github.com/slideshow-templates/slideshow-csss)
 
 
@@ -81,6 +85,7 @@ deck.js is a slide show template by Caleb Troughton (aka imakewebthings).
 
 Sample template package using the deck.js package.
 
+[Live Sample](http://slideshow-templates.github.io/slideshow-deck.js/slides.html) ·
 [More »](https://github.com/slideshow-templates/slideshow-deck.js)
 
 
@@ -89,12 +94,13 @@ Sample template package using the deck.js package.
 
 ## impress.js
 
-impress.js is a slide show template by Bartek Szopka (aka bartaz).
+impress.js is a slide show template by Bartek Szopka (aka bartaz) et al.
 
 ### impress.js Sample
 
 Sample template package using the impress.js package.
 
+[Live Sample](http://slideshow-templates.github.io/slideshow-impress.js/slides.html) ·
 [More »](https://github.com/slideshow-templates/slideshow-impress.js)
 
 
@@ -109,7 +115,7 @@ by Google used for the Google I/O conference in 2011
 
 Sample template package using Google's `html5-slides` code.
 
-[Sample](demos/packs/g5/tutorial1.html5.html)  &middot;
+[Live Sample](http://slideshow-templates.github.io/slideshow-google-html5-slides/slides.html5.html) ·
 [More »](https://github.com/slideshow-templates/slideshow-google-html5-slides)
 
 
@@ -121,15 +127,15 @@ slide show package inspired by Opera Show and others that works in all modern br
 without any plugin required because it includes its own slide show machinery in JavaScript.
 See the [S5 Project Site](http://meyerweb.com/eric/tools/s5) for more.
 
-### S5 Blank
+### S5 Blank Sample
 
 Sample template package using the S5.11 blank package.
 
-[Sample](demos/packs/s5/tutorial1.html)  &middot;
+[Live Sample](http://slideshow-templates.github.io/slideshow-s5-blank/slides.html) ·
 [More »](https://github.com/slideshow-templates/slideshow-s5-blank)
 
 
-### S5 Themes (Blue, I18N and Pixel)
+### S5 Themes (Blue, I18N and Pixel) Sample
 
 Sample template package using the S5.11 package including three themes, that is, Blue, I18N
 and Pixel.
@@ -143,11 +149,11 @@ and Pixel.
 
 Slidy is slide show template by Dave Raggett
 
-### Slidy Sample (W3C Blue)   
+### Slidy (W3C Blue) Sample
 
 Sample template package using the Slidy2 machinery
 
-[Sample](demos/packs/slidy/tutorial1.w3c.html)  &middot;
+[Live Sample](dhttp://slideshow-templates.github.io/slideshow-slidy/slides.w3c.html)  ·
 [More »](https://github.com/slideshow-templates/slideshow-slidy)
 
 
