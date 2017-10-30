@@ -33,10 +33,10 @@ The `fetch` section lets you configure template pack shortcuts. Example:
 
 ```
 fetch:
-  g5: https://raw.github.com/slideshow-s9/slideshow-google-html5-slides/master/g5.txt
-  csss: https://raw.github.com/slideshow-s9/slideshow-csss/master/csss.txt
-  deck.js: https://raw.github.com/slideshow-s9/slideshow-deck.js/master/deck.js.txt
-  impress.js: https://raw.github.com/slideshow-s9/slideshow-impress.js/master/impress.js.txt
+  g5: https://raw.github.com/slideshow-templates/slideshow-google-html5-slides/master/g5.txt
+  csss: https://raw.github.com/slideshow-templates/slideshow-csss/master/csss.txt
+  deck.js: https://raw.github.com/slideshow-templates/slideshow-deck.js/master/deck.js.txt
+  impress.js: https://raw.github.com/slideshow-templates/slideshow-impress.js/master/impress.js.txt
 ```
 
 Now you can use
@@ -48,7 +48,7 @@ slideshow install g5
 Instead of
 
 ```
-slideshow install https://raw.github.com/slideshow-s9/slideshow-google-html5-slides/master/g5.txt
+slideshow install https://raw.github.com/slideshow-templates/slideshow-google-html5-slides/master/g5.txt
 ```
 
 
