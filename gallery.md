@@ -162,7 +162,7 @@ and Pixel.
 
 Slidy is slide show template by Dave Raggett
 
-### Slidy (W3C Blue) Sample
+### Slidy (W3C Blue Theme) Sample
 
 Sample template package using the Slidy2 machinery
 
