@@ -126,11 +126,9 @@ Classic-style:
 Django-Style:
 
 ```
-{%- raw -%}
-{% code %}
+{% raw %}{% code %}
   puts 'Hello World!   
-{% end %}
-{%- endraw -%}
+{% end %}{% endraw %}
 ```
 </td></tr></table>
 
@@ -145,9 +143,7 @@ or include code from a file - lets say `hello.rb`:
 </td>
 <td markdown="1" style="vertical-align: top;">
 ```
-{%- raw -%}
-{{ code hello.rb }}
-{%- endraw -%}
+{% raw %}{{ code hello.rb }}{% endraw %}
 ```
 </td></tr></table>
 
@@ -162,9 +158,7 @@ To select the language (default is `ruby`) use the `:lang` option e.g.
 </td>
 <td markdown="1" style="vertical-align: top;">
 ```
-{%- raw -%}
-{{ code effects.css lang=css }}
-{%- endraw -%}
+{% raw %}{{ code effects.css lang=css }}{% endraw %}
 ```
 </td></tr></table>
 
@@ -189,9 +183,7 @@ becomes in S9:
 </td>
 <td markdown="1" style="vertical-align: top;">
 ```
-{%- raw -%}
-{{ code code/meta/my_ostruct.rb#impl class=small }}
-{%- endraw -%}
+{% raw %}{{ code code/meta/my_ostruct.rb#impl class=small }}{% endraw %}
 ```
 </td></tr></table>
 
@@ -207,9 +199,7 @@ To select the underlying engine for syntax highlighting use the `:engine` option
 </td>
 <td markdown="1" style="vertical-align: top;">
 ```
-{%- raw -%}
-{{ code highlight.rb  engine=sh }}
-{%- endraw -%}
+{% raw %}{{ code highlight.rb  engine=sh }}{% endraw %}
 ```
 </td></tr></table>
 
