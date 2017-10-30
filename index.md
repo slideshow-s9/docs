@@ -133,8 +133,8 @@ That's it. Voila.
 
 ### Bonus: Try some different templates/theme packs
 
-* [S6 PDF Theme](demos/tutorial.pdf.html) -> [PDF](demos/tutorial.pdf)
-* [Google HTML5 Slides Theme](demos/packs/g5/tutorial1.html5.html)
-* [S5 Blank](demos/packs/s5/tutorial1.html)
-* [Slidy W3C Blue Theme](demos/packs/slidy/tutorial1.w3c.html)
+* [S6 PDF Theme](http://slideshow-templates.github.io/slideshow-s6-blank/slides.pdf.html)   <!-- -> [PDF](demos/tutorial.pdf) -->
+* [Google HTML5 Slides Theme](http://slideshow-templates.github.io/slideshow-google-html5-slides/slides.html5.html)
+* [S5 Blank](http://slideshow-templates.github.io/slideshow-s5-blank/slides.html)
+* [Slidy W3C Blue Theme](http://slideshow-templates.github.io/slideshow-slidy/slides.w3c.html)
 * [More »](https://github.com/slideshow-templates)
