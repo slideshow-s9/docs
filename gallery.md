@@ -25,7 +25,7 @@ Show/hide slide controls (`Ø` `«` `»`)  | C, Move mouse to bottom right corne
 Sample template package using the S6 blank package.
 
 [Sample](demos/tutorial.html)  &middot; [Sample PDF](demos/tutorial.pdf.html)  &middot;
-[More »](https://github.com/slideshow-s9/slideshow-s6-blank)
+[More »](https://github.com/slideshow-templates/slideshow-s6-blank)
 
 
 ### S6 Blank w/ Syntax Highlighter
@@ -33,7 +33,7 @@ Sample template package using the S6 blank package.
 Sample template package using the S6 blank package.
 Includes SyntaxHighlighter - a free, open source syntax highlighter in JavaScript.
 
-[More »](https://github.com/slideshow-s9/slideshow-s6-syntax-highlighter)
+[More »](https://github.com/slideshow-templates/slideshow-s6-syntax-highlighter)
 
 
 
@@ -46,7 +46,7 @@ CSSS is a slide show template by Lea Verou.
 
 Sample template package using the CSSS template.
 
-[More »](https://github.com/slideshow-s9/slideshow-csss)
+[More »](https://github.com/slideshow-templates/slideshow-csss)
 
 
 
@@ -70,7 +70,7 @@ $ slideshow install https://raw.github.com/ralph-moeritz/slideshow-deck.js.sh/ma
 
 Sample template package using the deck.js package.
 
-[More »](https://github.com/slideshow-s9/slideshow-deck.js)
+[More »](https://github.com/slideshow-templates/slideshow-deck.js)
 
 
 
@@ -85,7 +85,7 @@ by Google used for the Google I/O conference in 2011
 Sample template package using Google's `html5-slides` code.
 
 [Sample](demos/packs/g5/tutorial1.html5.html)  &middot;
-[More »](https://github.com/slideshow-s9/slideshow-google-html5-slides)
+[More »](https://github.com/slideshow-templates/slideshow-google-html5-slides)
 
 
 
@@ -98,7 +98,7 @@ impress.js is a slide show template by Bartek Szopka (aka bartaz).
 
 Sample template package using the impress.js package.
 
-[More »](https://github.com/slideshow-s9/slideshow-impress.js)
+[More »](https://github.com/slideshow-templates/slideshow-impress.js)
 
 
 
@@ -115,7 +115,7 @@ See the [S5 Project Site](http://meyerweb.com/eric/tools/s5) for more.
 Sample template package using the S5.11 blank package.
 
 [Sample](demos/packs/s5/tutorial1.html)  &middot;
-[More »](https://github.com/slideshow-s9/slideshow-s5-blank)
+[More »](https://github.com/slideshow-templates/slideshow-s5-blank)
 
 
 ### S5 Themes (Blue, I18N and Pixel)
@@ -123,7 +123,7 @@ Sample template package using the S5.11 blank package.
 Sample template package using the S5.11 package including three themes, that is, Blue, I18N
 and Pixel.
 
-[More »](https://github.com/slideshow-s9/slideshow-s5-themes)
+[More »](https://github.com/slideshow-templates/slideshow-s5-themes)
 
 
 
@@ -138,7 +138,7 @@ Slidy is slide show template by Dave Raggett
 Sample template package using the Slidy2 machinery
 
 [Sample](demos/packs/slidy/tutorial1.w3c.html)  &middot;
-[More »](https://github.com/slideshow-s9/slideshow-slidy)
+[More »](https://github.com/slideshow-templates/slideshow-slidy)
 
 
 
@@ -186,32 +186,19 @@ $ slideshow install https://raw.github.com/avillafiorita/slideshow-shower/master
 
 Sample template package using the Shower package.
 
-[More »](https://github.com/slideshow-s9/slideshow-shower)
+[More »](https://github.com/slideshow-templates/slideshow-shower)
 
 
-
-
-<!--
-## Upstage by Reid Burke {#upstage}
-
-Template pack using Upstage - a simple slideshow system built with YUI 3 by Reid Burke.
-
-```
-$ slideshow install https://raw.github.com/reid/upstage/master/upstage.txt
-```
-
-[More »](https://github.com/reid/upstage)
--->
 
 
 ## How To Fetch New Template Packages?
 
 Using the `install` command lets you fetch (install) new templates.
-[More »](more.html#fetch)
+[More »](#how-to-fetch-new-template-packages)
 
 
 ## Got Templates?
 
 Share your templates. Send a link and announcement to the
 [wwwmake forum/mailing List](http://groups.google.com/group/wwwmake)
-and get your link added here. Thanks!
+and get added here. Thanks!
