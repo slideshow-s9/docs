@@ -104,6 +104,19 @@ Sample template package using the impress.js package.
 [More »](https://github.com/slideshow-templates/slideshow-impress.js)
 
 
+## bespoke.js
+
+bespoke.js is a slide show template by by Mark Dalgleish et al.
+
+### bespoke.js (Cube Theme) Sample
+
+Sample template package using the bespoke.js package.
+
+[Live Sample](https://slideshow-templates.github.io/slideshow-bespoke.js/slides.html) ·
+[More »](https://github.com/slideshow-templates/slideshow-bespoke.js)
+
+
+
 
 ## Google HTML5 Rocks
 
@@ -153,7 +166,7 @@ Slidy is slide show template by Dave Raggett
 
 Sample template package using the Slidy2 machinery
 
-[Live Sample](dhttp://slideshow-templates.github.io/slideshow-slidy/slides.w3c.html)  ·
+[Live Sample](http://slideshow-templates.github.io/slideshow-slidy/slides.w3c.html)  ·
 [More »](https://github.com/slideshow-templates/slideshow-slidy)
 
 
