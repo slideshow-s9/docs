@@ -14,14 +14,14 @@ $ slideshow install s5blank
 or
 
 ```
-$ slideshow install https://raw.github.com/slideshow-s9/slideshow-s5-blank/master/s5blank.txt
+$ slideshow install https://raw.github.com/slideshow-templates/slideshow-s5-blank/master/s5blank.txt
 ```
 
 Resulting in:
 
 ```
 Fetching template package 's5blank'
-  : from 'https://raw.github.com/slideshow-s9/slideshow-s5-blank/master
+  : from 'https://raw.github.com/slideshow-templates/slideshow-s5-blank/master
   : saving to '~/.slideshow/templates/s5blank'
   Downloading manifest 's5blank.txt'...
   Downloading template 'header.html.erb'...
@@ -33,7 +33,7 @@ Done.
 Note, if you want to store the template pack somewhere else
 use the `-c/--config` option (defaults to `~/.slideshow`).
 
-To find more templates browse the [Template Gallery](gallery.html).
+To find more templates browse the [Template Gallery](https://github.com/slideshow-templates).
 
 
 
@@ -75,7 +75,7 @@ Step 2: Clone (Fetch) the template pack using `git`
 Let's clone the `slideshow-google-html5-slides` template pack. Issue the command:
 
 ```
-git clone http://github.com/slideshow-s9/slideshow-google-html5-slides.git
+git clone http://github.com/slideshow-templates/slideshow-google-html5-slides.git
 ```
 
 That's it. Use the `list` command to list all installed template packs.
@@ -108,7 +108,7 @@ Installed templates include:
 
 Fetch a sample template pack from the internet or clone it using `git` or create
 it from scratch.
-See the [Template Gallery](gallery.html) for more info and samples to get started.
+See the [Template Gallery](https://github.com/slideshow-templates) for more info and samples to get started.
 
 To use your own template pack use the `-t/--template MANIFEST` option
 passing along the manifest. Example:
@@ -120,7 +120,7 @@ $ slideshow build microformats.text -t s5blank
 
 Got templates? Send a link and announcement to the
 [wwwmake forum/mailing List](http://groups.google.com/group/wwwmake)
-and get your link added to the [Template Gallery](gallery.html).
+and get your link added to the [Template Gallery](https://github.com/slideshow-templates).
 
 
 ## How To Create Slides Without Titles?
@@ -166,10 +166,10 @@ Will become:
 ```
 
 
-## How To Use Gradient Themes for the Built-In S6 Template Pack?
+## How To Use Gradient Background Themes for the Built-In S6 Template Pack?
 
-You can define your gradient theme in plain text in the slide show source in the header
-using a simple CSS-style name value pair. [More »](themes.html#use)
+You can define your gradient background theme in plain text in the slide show source in the header
+using a simple CSS-style name value pair. [More »](#how-to-use-gradient-background-themes-for-the-built-in-s6-template-pack)
 
 
 ## How To Generate PDF Documents from Your Slide Shows?
