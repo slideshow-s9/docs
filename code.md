@@ -68,7 +68,7 @@ SyntaxHighligher is a free, open-source syntax highlighter in JavaScript:
 * [SyntaxHighlighter Themes](http://alexgorbatchev.com/SyntaxHighlighter/manual/themes/)
 
 Note, if you use the SyntaxHighligher engine you will need to
-use the [`s6syntax`](http://github.com/geraldb/slideshow-s6-syntax-highlighter)
+use the [`s6syntax`](http://github.com/slideshow-templates/slideshow-s6-syntax-highlighter)
 template pack that includes the SyntaxHighlighter machinery or as an alternative
 bundle up your own template pack.
 
@@ -256,4 +256,4 @@ only support inline code (if you want to include code use a nested include e.g.:
 ```
 
 For more options or on how to write your own syntax highlighting
-helpers check the [source of the syntax higlighting helpers](http://github.com/slideshow-s9/slideshow/tree/master/lib/slideshow/helpers/syntax).
+helpers check the [source of the syntax higlighting helpers](https://github.com/slideshow-s9/slideshow/tree/master/slideshow-models/lib/slideshow/helpers/syntax).
