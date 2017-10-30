@@ -20,7 +20,7 @@ for "loss-free" gradient vector graphics backgrounds.
 * That's it. Showtime!
 
 
-### Step 0.1: Install the `slideshow` command line tool
+### Step 0: Install the `slideshow` command line tool and setup template packs
 
 Use the Ruby package manager, that is, `gem` to install:
 
@@ -28,15 +28,13 @@ Use the Ruby package manager, that is, `gem` to install:
 $ gem install slideshow
 ```
 
-### Step 0.2: Setup Templates Packs & Plugins 
-
-Use the Slide Show (S9) command line tool to download (fetch) the template pack and plugin helpers:
+Use the Slide Show (S9) command line tool to download (fetch) the S6 Blank template pack:
 
 ```
 $ slideshow install s6blank        # fetch s6 blank template pack
 ```
 
-To double check what template packs and plugins you have installed try:
+To double check what template packs you have installed try:
 
 ```
 $ slideshow list
@@ -47,6 +45,7 @@ resulting in:
 ```
 
 ```
+
 
 
 ### Step 1: Write your slides in plain text with markdown formatting conventions
