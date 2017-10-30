@@ -1,5 +1,5 @@
 ---
-title: Create Your Own Templates - Template Reference
+title: Create Your Own Templates
 ---
 
 Create your own templates (use `headers`, `slides`, `name`, etc.)
