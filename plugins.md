@@ -210,7 +210,7 @@ key as many times as you want. The new content just gets added.
 
 ## Code/Syntax Highlighting Helpers
 
-Use the `code` helper to include and syntax highlight code. [More »](code.html)
+Use the `code` helper to include and syntax highlight code. [More »](#hello-syntax-highlighting-helper)
 
 
 ## How to Create Your Own Helpers
