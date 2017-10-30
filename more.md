@@ -8,25 +8,31 @@ title: Settings, Tips, Tricks and More
 Using the `install` command lets you fetch (install) new templates. Example:
 
 ```
-$ slideshow install s5blank
+$ slideshow install s6blank
 ```
 
 or
 
 ```
-$ slideshow install https://raw.github.com/slideshow-templates/slideshow-s5-blank/master/s5blank.txt
+$ slideshow install https://raw.github.com/slideshow-templates/slideshow-s6-blank/master/s6blank.txt
 ```
 
 Resulting in:
 
 ```
-Fetching template package 's5blank'
-  : from 'https://raw.github.com/slideshow-templates/slideshow-s5-blank/master
-  : saving to '~/.slideshow/templates/s5blank'
-  Downloading manifest 's5blank.txt'...
-  Downloading template 'header.html.erb'...
-  ...
-  Downloading template 'ui/default/slides.js'...
+Fetching template pack 's6blank'
+    from 'https://raw.github.com:443/slideshow-templates/slideshow-s6-blank/master'
+    saving to '~/.slideshow/templates/s6blank'
+  Downloading manifest 's6blank.txt'...
+  Downloading file 'slides.html'...
+  Downloading file 'style.css'...
+  Downloading file 's6/projection.css'...
+  Downloading file 's6/screen.css'...
+  Downloading file 's6/print.css'...
+  Downloading file 's6/jquery.js'...
+  Downloading file 's6/jquery.microsoft.js'...
+  Downloading file 's6/jquery.slideshow.js'...
+  Downloading file 'slides.pdf.html'...
 Done.
 ```
 
@@ -72,10 +78,10 @@ cd ~/.slideshow/templates
 
 Step 2: Clone (Fetch) the template pack using `git`
 
-Let's clone the `slideshow-google-html5-slides` template pack. Issue the command:
+Let's clone the reveal.js template pack. Issue the command:
 
 ```
-git clone http://github.com/slideshow-templates/slideshow-google-html5-slides.git
+git clone http://github.com/slideshow-templates/slideshow-reveal.js.git
 ```
 
 That's it. Use the `list` command to list all installed template packs.
@@ -98,9 +104,15 @@ $ slideshow ls
 Resulting in:
 
 ```
-Installed templates include:
-  s5blank.txt       (~/.slideshow/templates/s5blank/s5blank.txt)
-  s6.txt            (/usr/lib/ruby/gems/1.8/gems/slideshow-0.8/templates/s6.txt)
+Installed template packs in search path
+    [1] templates/*.txt
+    [2] templates/*/*.txt
+    [3] node_modules/*/*.txt
+    [4] ~/.slideshow/templates/*.txt
+    [5] ~/.slideshow/templates/*/*.txt
+  include:
+       reveal.js (~/.slideshow/templates/reveal.js/reveal.js.txt)
+         s6blank (~/.slideshow/templates/s6blank/s6blank.txt)
 ```
 
 
@@ -114,8 +126,8 @@ To use your own template pack use the `-t/--template MANIFEST` option
 passing along the manifest. Example:
 
 ```
-$ slideshow build microformats.text -t s6
-$ slideshow build microformats.text -t s5blank
+$ slideshow build microformats.text -t s6blank
+$ slideshow build microformats.text -t reveal.js
 ```
 
 Got templates? Send a link and announcement to the
@@ -208,7 +220,7 @@ author: Jim Weirich
 Jim Weirich
 ```
 
-See [10 Things Every Java Programmer Should Know About Ruby](http://raw.github.com/slideshow-s9/samples/master/10things.text)
+See [10 Things Every Java Programmer Should Know About Ruby](http://raw.github.com/slideshow-s9/samples/master/10things.md)
 sample.
 
 Note, as an alternative syntax to skip (comment out)
