@@ -38,9 +38,7 @@ use a Django-style syntax using `{% raw %}{{ }}{% endraw %}`. Example:
 Django-style helper syntax:
 
 ```
-{% raw %}
-{{ include help.txt }}
-{% endraw %}
+{% raw %}{{ include help.txt }}{% endraw %}
 ```
 </td>
 <td markdown="1" style="vertical-align: top;">
@@ -60,9 +58,7 @@ Classic helper syntax:
 Django-style:
 
 ```
-{% raw %}
-{{ google_analytics code=UA-YOUR-CODE-HERE }}
-{% endraw %}
+{% raw %}{{ google_analytics code=UA-YOUR-CODE-HERE }}{% endraw %}
 ```
 </td>
 <td markdown="1" style="vertical-align: top;">
@@ -82,9 +78,7 @@ Classic:
 Django-style:
 
 ```
-{% raw %}
-{{ help }}
-{% endraw %}
+{% raw %}{{ help }}{% endraw %}
 ```
 </td>
 <td markdown="1" style="vertical-align: top;">
@@ -103,8 +97,7 @@ Classic:
 Django-style:
 
 ```
-{% raw %}
-{% left %}
+{% raw %}{% left %}
 
 ### Java is
 
@@ -124,8 +117,7 @@ typed.
 * Implicitly
 
 typed.
-{% end %}
-{% endraw %}
+{% end %}{% endraw %}
 ```
 </td>
 <td markdown="1" style="vertical-align: top;">
@@ -164,13 +156,11 @@ typed.
 Django-style:
 
 ```
-{% raw %}
-{% step %}
+{% raw %}{% step %}
 * Catching all inappropriate operations on a type, either at
   * compile time, or
   * run time
-{% end %}
-{% endraw %}
+{% end %}{% endraw %}
 ```
 </td>
 <td markdown="1" style="vertical-align: top;">
