@@ -34,13 +34,18 @@ Use the Slide Show (S9) command line tool to download (fetch) the template pack 
 
 ```
 $ slideshow install s6blank        # fetch s6 blank template pack
-$ slideshow install plugins        # fetch (standard) plugin helpers
 ```
 
 To double check what template packs and plugins you have installed try:
 
 ```
 $ slideshow list
+```
+
+resulting in:
+
+```
+
 ```
 
 
@@ -104,7 +109,7 @@ and will build a web page
 that is an all-in-one-page handout and a live slide show all at once.
 
 ```
-$ slideshow build rest.text -t s6blank
+$ slideshow build rest.text
 
 => Preparing slideshow 'rest.html'...
 => Done.
