@@ -1,7 +1,8 @@
 # Old Gallery Themes (No Longer In Use/Working)
 
 
-## Upstage by Reid Burke
+
+### Upstage
 
 Template pack using Upstage - a simple slideshow system built with YUI 3 by Reid Burke.
 
@@ -44,8 +45,6 @@ $ slideshow install reveal
 
 ### Shower   
 
-Shower is a slide show template by et al.
-
 Template pack using Shower by Adolfo Villafiorita.
 
 ```
@@ -54,7 +53,5 @@ $ slideshow install https://raw.github.com/avillafiorita/slideshow-shower/master
 
 [Docu](https://github.com/avillafiorita/slideshow-shower/blob/master/doc/tutorial.textile)  &middot;
 [More »](https://github.com/avillafiorita/slideshow-shower)
-
-
 
 
