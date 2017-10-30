@@ -50,12 +50,12 @@ COMMAND OPTIONS
     --takahashi             - Allow // for slide breaks
     --slide                 - Use only !SLIDE for slide breaks (Showoff Compatible)
     -o, --output=PATH       - Output Path (default: .)
-    -t, --template=MANIFEST - Template Manifest (default: s6)
+    -t, --template=MANIFEST - Template Manifest (default: s6blank)
 
 EXAMPLES
     slideshow build microformats.text
     slideshow build microformats.text -o slides     # Output slideshow to slides folder
-    slideshow build microformats.text -t s5blank    # Use your own slide show templates (e.g. s5blank)
+    slideshow build microformats.text -t s6blank    # Use your own slide show templates (e.g. s6blank)
 ```
 
 
@@ -88,7 +88,7 @@ COMMAND OPTIONS
 
 EXAMPLES
     slideshow install impress.js
-    slideshow install https://raw.github.com/slideshow-s9/slideshow-impress.js/master/impress.js.txt
+    slideshow install https://raw.github.com/slideshow-templates/slideshow-impress.js/master/impress.js.txt
 ```
 
 
