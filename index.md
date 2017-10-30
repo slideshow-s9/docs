@@ -127,4 +127,4 @@ That's it. Voila.
 * [Google HTML5 Slides Theme](demos/packs/g5/tutorial1.html5.html)
 * [S5 Blank](demos/packs/s5/tutorial1.html)
 * [Slidy W3C Blue Theme](demos/packs/slidy/tutorial1.w3c.html)
-* [More »](gallery.html)
+* [More »](https://github.com/slideshow-templates)
