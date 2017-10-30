@@ -37,10 +37,33 @@ Includes SyntaxHighlighter - a free, open source syntax highlighter in JavaScrip
 
 
 
+## reveal.js
+
+reveal.js is a slide show template by Hakim El Hattab et al.
+
+### reveal.js Sample
+
+Sample template package using the reveal.js package.
+
+[More »](https://github.com/slideshow-templates/slideshow-reveal.js)
+
+
+
+## Shower
+
+Shower is a slide show template by Vadim Makeev et al.
+
+### Shower Sample (Ribbon Theme)
+
+Sample template package using the Shower package.
+
+[More »](https://github.com/slideshow-templates/slideshow-shower)
+
+
+
 ## CSSS
 
 CSSS is a slide show template by Lea Verou.
-
 
 ### CSSS Sample
 
@@ -54,23 +77,25 @@ Sample template package using the CSSS template.
 
 deck.js is a slide show template by Caleb Troughton (aka imakewebthings).
 
-
-### deck.js.sh
-
-Template pack using deck.js with SyntaxHighlighter (sh) by Ralph Möritz.
-
-```
-$ slideshow install https://raw.github.com/ralph-moeritz/slideshow-deck.js.sh/master/deck.js.sh.txt
-```
-
-[More »](https://github.com/ralph-moeritz/slideshow-deck.js.sh)
-
-
 ### deck.js Sample  
 
 Sample template package using the deck.js package.
 
 [More »](https://github.com/slideshow-templates/slideshow-deck.js)
+
+
+
+
+
+## impress.js
+
+impress.js is a slide show template by Bartek Szopka (aka bartaz).
+
+### impress.js Sample
+
+Sample template package using the impress.js package.
+
+[More »](https://github.com/slideshow-templates/slideshow-impress.js)
 
 
 
@@ -86,20 +111,6 @@ Sample template package using Google's `html5-slides` code.
 
 [Sample](demos/packs/g5/tutorial1.html5.html)  &middot;
 [More »](https://github.com/slideshow-templates/slideshow-google-html5-slides)
-
-
-
-
-## impress.js
-
-impress.js is a slide show template by Bartek Szopka (aka bartaz).
-
-### impress.js Sample
-
-Sample template package using the impress.js package.
-
-[More »](https://github.com/slideshow-templates/slideshow-impress.js)
-
 
 
 
@@ -132,61 +143,12 @@ and Pixel.
 
 Slidy is slide show template by Dave Raggett
 
-
 ### Slidy Sample (W3C Blue)   
 
 Sample template package using the Slidy2 machinery
 
 [Sample](demos/packs/slidy/tutorial1.w3c.html)  &middot;
 [More »](https://github.com/slideshow-templates/slideshow-slidy)
-
-
-
-## reveal.js
-
-reveal.js is a slide show template by Hakim El Hattab.
-
-
-### reveal
-
-Template pack using reveal.js by Adolfo Villafiorita.
-
-```
-$ slideshow install https://raw.github.com/avillafiorita/slideshow-reveal.js/master/reveal.txt
-```
-or
-
-```
-$ slideshow install reveal
-```
-
-[Docu](https://github.com/avillafiorita/slideshow-reveal.js/blob/master/doc/s9-reveal.textile) &middot;
-[More »](https://github.com/avillafiorita/slideshow-reveal.js)
-
-
-
-## Shower
-
-Shower is a slide show template by Vadim Makeev.
-
-
-### Shower   
-
-Template pack using Shower by Adolfo Villafiorita.
-
-```
-$ slideshow install https://raw.github.com/avillafiorita/slideshow-shower/master/shower.txt
-```
-
-[Docu](https://github.com/avillafiorita/slideshow-shower/blob/master/doc/tutorial.textile)  &middot;
-[More »](https://github.com/avillafiorita/slideshow-shower)
-
-
-### Shower Sample (Ribbon Theme)
-
-Sample template package using the Shower package.
-
-[More »](https://github.com/slideshow-templates/slideshow-shower)
 
 
 
