@@ -148,7 +148,7 @@ Sample template package using the S5.11 blank package.
 [More »](https://github.com/slideshow-templates/slideshow-s5-blank)
 
 
-### S5 Themes (Blue, I18N and Pixel) Sample
+### S5 (Blue, I18N and Pixel Themes) Sample
 
 Sample template package using the S5.11 package including three themes, that is, Blue, I18N
 and Pixel.
