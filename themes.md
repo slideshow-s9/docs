@@ -1,5 +1,5 @@
 ---
-title: Gradient Themes
+title: Gradient Background Themes
 ---
 
 
@@ -26,18 +26,18 @@ title: Gradient Themes
         width="100%" height="60%" frameborder="0"></iframe>
 
 
-## How To Use Gradient Themes for the Built-In S6 Template Pack?
+## How To Use Gradient Background Themes for the Built-In S6 Template Pack?
 
-You can define your gradient theme in plain text in the slide show source in the header using
+You can define your gradient background theme in plain text in the slide show source in the header using
 a simple CSS-style name value pair (if you use the built-in S6 templates).
 
-Example 1: Use `top-bottom` gradient theme with the colors red and black
+Example 1: Use `top-bottom` gradient background theme with the colors red and black
 
 ```
 gradient: top-bottom red black
 ```
 
-*Themes*. The built-in predefined gradient themes include: `diagonal`,
+*Themes*. The built-in predefined gradient background themes include: `diagonal`,
 `top-bottom`,
 `left-right`,
 `repeat`,  
@@ -49,25 +49,25 @@ gradient: top-bottom red black
 `maroon` or self-defined colors such as `#0e1f5b`, `#3b5998`.
 
 
-Example 2: Use pre-defined CSS colors (with default `diagonal` gradient theme)
+Example 2: Use pre-defined CSS colors (with default `diagonal` gradient background theme)
 
 ```
 gradient-colors: green lime
 ```
 
-Example 3: Use self-defined colors (with default `diagonal` gradient theme)
+Example 3: Use self-defined colors (with default `diagonal` gradient background theme)
 
 ```
 gradient-colors: #0e1f5b #3b5998
 ```
 
-Example 4: Use `radial` gradient theme and facebook colors
+Example 4: Use `radial` gradient background theme and facebook colors
 
 ```
 gradient: radial #0e1f5b #3b5998
 ```
 
-Example 5: Just change gradient theme and use default colors, that is, `red` and `orange`
+Example 5: Just change gradient background theme and use default colors, that is, `red` and `orange`
 
 ```
 gradient-theme: repeat
