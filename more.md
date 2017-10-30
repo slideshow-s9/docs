@@ -120,7 +120,7 @@ $ slideshow build microformats.text -t s5blank
 
 Got templates? Send a link and announcement to the
 [wwwmake forum/mailing List](http://groups.google.com/group/wwwmake)
-and get your link added to the [Template Gallery](https://github.com/slideshow-templates).
+and get added to the [Template Gallery](https://github.com/slideshow-templates).
 
 
 ## How To Create Slides Without Titles?
